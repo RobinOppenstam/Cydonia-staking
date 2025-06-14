@@ -361,7 +361,7 @@ export default function Home() {
             <div>
               <h3 className="text-lg font-semibold text-purple-400 mb-2 text-glow">Protocol Details</h3>
               <ul className="text-gray-300 space-y-1 leading-relaxed">
-                <li>• <span className="text-cyan-400">Total Supply:</span> 1 Billion CDN tokens</li>
+                <li>• <span className="text-cyan-400">Total Supply:</span> 1 Trillion CDN tokens</li>
                 <li>• <span className="text-purple-400">Rewards distributed:</span> over 10 years</li>
                 <li>• <span className="text-green-400">No early penalties:</span> flexible unstaking</li>
                 <li>• <span className="text-orange-400">Claim rewards:</span> anytime during stake</li>

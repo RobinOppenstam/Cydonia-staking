@@ -1,11 +1,14 @@
 {
-  "cydoniaToken": "0xd0cc117c2721fa2E7662f4cfF0c90c5658aa547f",
-  "stakingContract": "0xF3310aCe3bf9AdCf25FA1b083590A9101861f3A1",
+  "cydoniaToken": "0x9e0eEb3864Fcc1b8B67Fee6F56Cd878eB930c795",
+  "cydoniaTokenV1": "0xd0cc117c2721fa2E7662f4cfF0c90c5658aa547f",
+  "stakingContract": "0x0f5E5b69759738069c4813d21c94602c6C7adA66", 
+  "stakingContractV1": "0xF3310aCe3bf9AdCf25FA1b083590A9101861f3A1",
   "usdtToken": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
   "usdcToken": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
   "deployer": "0x7FC771b0675dE44c4ee9E8b40b24B7a4eE2804BC",
   "network": "sepolia",
   "chainId": 11155111,
-  "deployedAt": "1748690784",
-  "blockNumber": "8446014"
+  "deployedAt": "1749887196",
+  "blockNumber": "8545552",
+  "version": "2.0"
 }
