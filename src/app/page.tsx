@@ -176,12 +176,12 @@ export default function Home() {
         }}
       >
         <div className="text-center animate-fade-in">
-          <h1 className="text-6xl font-cyber font-bold text-gradient-cyber mb-8 text-glow animate-pulse-glow">
+          <h1 className="text-6xl font-cyber font-bold text-gradient-cyber mb-8 text-glow ">
             CYDONIA PROTOCOL
           </h1>
           <p className="text-xl text-cyan-300 mb-8 max-w-2xl mx-auto leading-relaxed">
             Enter the future of DeFi staking. Stake ETH, USDT, USDC, and Cydonia tokens 
-            for dynamic rewards in our cyberpunk-themed protocol.
+            for dynamic rewards in our protocol.
           </p>
           <div className="glass-strong rounded-lg p-6 inline-block border-neon animate-float">
             <ConnectButton />
